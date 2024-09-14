@@ -1,0 +1,16 @@
+com\easyjava\builder\BuildController.class
+com\easyjava\bean\TableInfo.class
+com\easyjava\builder\BuildServiceImpl.class
+com\easyjava\utils\PropertiesUtils.class
+com\easyjava\builder\BuildBeanPo.class
+com\easyjava\builder\BuildMapper.class
+com\easyjava\EasyJavaApplication.class
+com\easyjava\bean\Constants.class
+com\easyjava\builder\BuildMapperXml.class
+com\easyjava\utils\StringTools.class
+com\easyjava\builder\BuildBaseJava.class
+com\easyjava\bean\FieldInfo.class
+com\easyjava\builder\BuildComment.class
+com\easyjava\builder\BuildService.class
+com\easyjava\builder\BuildTable.class
+com\easyjava\builder\BuildBeanQuery.class
